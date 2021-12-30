@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaraMousavinia
+- 👋 Hi, I’m SaraMousavinia
 - 👀 I’m interested in Artificial Intelligence, working with Data and all other Mysterious jobs! ;)
 - 🌱 I’m currently learning MANY THINGS!
 - 💞️ I’m looking to collaborate on AI projects
